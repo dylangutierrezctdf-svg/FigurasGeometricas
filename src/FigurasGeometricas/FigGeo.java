@@ -9,18 +9,16 @@ package FigurasGeometricas;
  * @author Student
  */
 public abstract class FigGeo {
-    protected double perimetro;
-    protected double area;
 
     public double getPerimetro() {
-        return perimetro;
+        return calcularPerimetro();
     }
 
     public double getArea() {
-        return area;
+        return calcularArea();
     }
     
-    public abstract double calcularPerimetro();
+    protected abstract double calcularPerimetro();
         
-    public abstract double calcularArea();
+    protected abstract double calcularArea();
 }
