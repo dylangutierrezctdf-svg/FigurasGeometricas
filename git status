@@ -1,0 +1,39 @@
+[33mcommit dc6b788973d3af7998d93afc3ce1b67cfe5f14ea[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdev[m[33m)[m
+Author: dylan <dylangutierrezctdf@gmail.com>
+Date:   Fri Jun 12 15:35:33 2026 -0600
+
+    Se crearon las clases
+    
+    Se crean las diferentes clases de triangulo.
+
+[33mcommit d4bc4b0607db4281ffec9b28a96bc5bd8683265c[m
+Author: dylan <dylangutierrezctdf@gmail.com>
+Date:   Fri Jun 12 13:54:41 2026 -0600
+
+    Se eliminan los metos get
+    
+    Se crean nuevos metodos y se pasan a protected
+
+[33mcommit cf31efa55bf3f38c92c6f8febf482b0dbd76607a[m
+Author: dylan <dylangutierrezctdf@gmail.com>
+Date:   Fri Jun 12 13:49:10 2026 -0600
+
+    Se eliminan los metos get
+    
+    Se eliminan los metos get
+
+[33mcommit b52c1ab28dda483a78a760ceb1fec5b20a09e2b2[m
+Author: Dylan <dylangutierrezctdf@gmail.com>
+Date:   Tue Jun 9 16:41:33 2026 -0600
+
+    Clase FigGeo
+    
+    Se crea la clase abstracta figgeo con los atributos area y perimetro que existen en todas las figuras geometricas
+
+[33mcommit f4e2e4c33d70d5b98001d6787231a00147d332ab[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/dev[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Dylan <dylangutierrezctdf@gmail.com>
+Date:   Tue Jun 9 13:59:51 2026 -0600
+
+    Inicio del proyecto
+    
+    Se crea el proycto de netbeans
